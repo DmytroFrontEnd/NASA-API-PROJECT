@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/NASA-API-PROJECT/static/css/main.a42d98c5.chunk.css",
-    "main.js": "/NASA-API-PROJECT/static/js/main.bc8704dc.chunk.js",
-    "main.js.map": "/NASA-API-PROJECT/static/js/main.bc8704dc.chunk.js.map",
-    "runtime-main.js": "/NASA-API-PROJECT/static/js/runtime-main.e6a7aa4b.js",
-    "runtime-main.js.map": "/NASA-API-PROJECT/static/js/runtime-main.e6a7aa4b.js.map",
-    "static/css/2.3ca2e7a5.chunk.css": "/NASA-API-PROJECT/static/css/2.3ca2e7a5.chunk.css",
-    "static/js/2.8b335f80.chunk.js": "/NASA-API-PROJECT/static/js/2.8b335f80.chunk.js",
-    "static/js/2.8b335f80.chunk.js.map": "/NASA-API-PROJECT/static/js/2.8b335f80.chunk.js.map",
-    "static/js/3.fa3476fd.chunk.js": "/NASA-API-PROJECT/static/js/3.fa3476fd.chunk.js",
-    "static/js/3.fa3476fd.chunk.js.map": "/NASA-API-PROJECT/static/js/3.fa3476fd.chunk.js.map",
-    "index.html": "/NASA-API-PROJECT/index.html",
-    "static/css/2.3ca2e7a5.chunk.css.map": "/NASA-API-PROJECT/static/css/2.3ca2e7a5.chunk.css.map",
-    "static/css/main.a42d98c5.chunk.css.map": "/NASA-API-PROJECT/static/css/main.a42d98c5.chunk.css.map",
-    "static/js/2.8b335f80.chunk.js.LICENSE.txt": "/NASA-API-PROJECT/static/js/2.8b335f80.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/NASA-API-PROJECT/static/media/background-img.ee10429e.png",
-    "static/media/ThirdScreen.module.css": "/NASA-API-PROJECT/static/media/mars2.67dcbadd.png"
+    "main.css": "/nasaapi/static/css/main.05ccbb2a.chunk.css",
+    "main.js": "/nasaapi/static/js/main.bc8704dc.chunk.js",
+    "main.js.map": "/nasaapi/static/js/main.bc8704dc.chunk.js.map",
+    "runtime-main.js": "/nasaapi/static/js/runtime-main.72748bae.js",
+    "runtime-main.js.map": "/nasaapi/static/js/runtime-main.72748bae.js.map",
+    "static/css/2.3ca2e7a5.chunk.css": "/nasaapi/static/css/2.3ca2e7a5.chunk.css",
+    "static/js/2.8b335f80.chunk.js": "/nasaapi/static/js/2.8b335f80.chunk.js",
+    "static/js/2.8b335f80.chunk.js.map": "/nasaapi/static/js/2.8b335f80.chunk.js.map",
+    "static/js/3.fa3476fd.chunk.js": "/nasaapi/static/js/3.fa3476fd.chunk.js",
+    "static/js/3.fa3476fd.chunk.js.map": "/nasaapi/static/js/3.fa3476fd.chunk.js.map",
+    "index.html": "/nasaapi/index.html",
+    "static/css/2.3ca2e7a5.chunk.css.map": "/nasaapi/static/css/2.3ca2e7a5.chunk.css.map",
+    "static/css/main.05ccbb2a.chunk.css.map": "/nasaapi/static/css/main.05ccbb2a.chunk.css.map",
+    "static/js/2.8b335f80.chunk.js.LICENSE.txt": "/nasaapi/static/js/2.8b335f80.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/nasaapi/static/media/background-img.ee10429e.png",
+    "static/media/ThirdScreen.module.css": "/nasaapi/static/media/mars2.67dcbadd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e6a7aa4b.js",
+    "static/js/runtime-main.72748bae.js",
     "static/css/2.3ca2e7a5.chunk.css",
     "static/js/2.8b335f80.chunk.js",
-    "static/css/main.a42d98c5.chunk.css",
+    "static/css/main.05ccbb2a.chunk.css",
     "static/js/main.bc8704dc.chunk.js"
   ]
 }
