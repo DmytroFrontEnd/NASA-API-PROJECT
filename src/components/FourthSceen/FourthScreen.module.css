@@ -1,0 +1,70 @@
+.container {
+  position: absolute;
+  width: 80%;
+  height: 80%;
+  box-sizing: border-box;
+  border: 2px solid;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.about {
+  margin-top: 5%;
+  letter-spacing: 0.8rem;
+}
+.text {
+  margin: 3.3% auto;
+  position: relative;
+  width: 70%;
+}
+.text h4 {
+  line-height: 210%;
+  letter-spacing: 0.1rem;
+}
+
+.links {
+  text-decoration: none;
+  margin: 0 1%;
+  font-size: 140%;
+  color: rgb(226, 224, 224);
+  transition: 0.3s;
+}
+.links:hover {
+  color: rgb(62, 62, 199);
+}
+@media screen and (max-width: 1400px) {
+  .about {
+    margin-top: 5%;
+    letter-spacing: 0.8rem;
+    font-size: 130%;
+  }
+  .text {
+    margin: 3.3% auto;
+    position: relative;
+    width: 90%;
+  }
+  .text h4 {
+    line-height: 110%;
+    letter-spacing: 0.1rem;
+    font-size: 130%;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .about {
+    margin-top: 0%;
+    letter-spacing: 0.8rem;
+    font-size: 130%;
+  }
+  .text {
+    margin: 3% auto;
+    position: relative;
+    width: 95%;
+  }
+  .text h4 {
+    line-height: 100%;
+    letter-spacing: 0.1rem;
+    font-size: 110%;
+  }
+}
